@@ -247,5 +247,4 @@ let gallery = new SimpleLightbox('.galery-list a', {
 	captionsData: 'alt',
 	loop: false,
 	docClose: false,
-	htmlClass: 'qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq',
 });

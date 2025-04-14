@@ -103,3 +103,7 @@ fieldset {
 .sl-close {
 	color: #f7fbfb !important;
 }
+
+html {
+	scroll-behavior: smooth;
+}
